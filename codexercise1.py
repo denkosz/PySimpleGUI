@@ -1,7 +1,3 @@
-
-
-
-
 import PySimpleGUI as sG
 
 label1 = sG.Text("Enter feet: ")
